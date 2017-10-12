@@ -1,0 +1,6 @@
+Q1) Define Processor Registers(ALU, PC, MBR, MDR, MAR, IR, PWS, PC, General Register)?
+Q2) Numerical system conversations?
+Q3) Define OSI Layers?
+Q4) Define Logical gets (AND, OR, NOT) and also write truth tables?
+Q5) Logical circuit Diagram?
+

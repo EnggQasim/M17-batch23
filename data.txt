@@ -1,0 +1,4 @@
+id	name	course	fee
+1	meer	ADIT	1200
+2	sufyan	CIT	1200
+3	Basil	ACAD	1200
